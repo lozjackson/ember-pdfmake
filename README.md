@@ -1,8 +1,19 @@
 # Ember-pdfmake
 
-This README outlines the details of collaborating on this Ember addon.
-
 ## Installation
+
+```
+ember install ember-pdfmake
+```
+
+```js
+import pdfMake from 'ember-pdfmake';
+
+pdfMake.createPdf({ content });
+```
+For more information on [pdfmake](https://github.com/bpampuch/pdfmake) read the documentation [here](https://github.com/bpampuch/pdfmake/blob/master/README.md).
+
+## Installation for development
 
 * `git clone <repository-url>` this repository
 * `cd ember-pdfmake`
