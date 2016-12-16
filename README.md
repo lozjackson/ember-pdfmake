@@ -6,6 +6,8 @@
 ember install ember-pdfmake
 ```
 
+## Use
+
 ```js
 import pdfMake from 'ember-pdfmake';
 
