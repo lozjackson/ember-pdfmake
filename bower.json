@@ -2,6 +2,7 @@
   "name": "ember-pdfmake",
   "dependencies": {
     "ember": "~2.8.0",
-    "ember-cli-shims": "0.1.1"
+    "ember-cli-shims": "0.1.1",
+    "pdfmake": "^0.1.20"
   }
 }
